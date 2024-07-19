@@ -1,2 +1,2 @@
 # ismail-react-portfolio
-portfolio project
+Ismail Portfolio Project
